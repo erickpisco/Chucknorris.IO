@@ -26,7 +26,7 @@ Caso haja algum problema relacionado ao AlamoFire/Kingfisher na hora de compilar
 * Passo 1: Instale o cocoapods utilizando o seguinte comando:
 -$ sudo gem install cocoapods
 
-* Passo 2: Dentro do projeto entre na pasta "Podfile" e check a versão dos frameworks.
+* Passo 2: Dentro do projeto entre na pasta "Podfile" e cheque a versão dos frameworks.
 
 * Passo 3: Abra o terminal na pasta do projeto e utilize o seguinte comando:
 
