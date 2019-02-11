@@ -23,16 +23,16 @@ Pretendo melhoraro no futuro.
 
 Caso haja algum problema relacionado ao AlamoFire/Kingfisher na hora de compilar é só seguir os passoas abaixo:
 
-*Passo 1: Instale o cocoapods utilizando o seguinte comando:
+* Passo 1: Instale o cocoapods utilizando o seguinte comando:
 -$ sudo gem install cocoapods
 
-*Passo 2: Dentro do projeto entre na pasta "Podfile" e check a versão dos frameworks.
+* Passo 2: Dentro do projeto entre na pasta "Podfile" e check a versão dos frameworks.
 
-*Passo 3: Abra o terminal na pasta do projeto e utilize o seguinte comando:
+* Passo 3: Abra o terminal na pasta do projeto e utilize o seguinte comando:
 
 -$ pod install
 
-*Passo 4: Entre no projeto ".xcworkspace" e compile no divice desejado.
+* Passo 4: Entre no projeto ".xcworkspace" e compile no divice desejado.
 
 
 
