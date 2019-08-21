@@ -4,7 +4,7 @@
 Esse App é um desafio que fiz do Github do GuiaBolso.
 O intuido da criaçao desse app foi para colocar em pratica um pouco dos meus conhecimento sobre o Desenvovimento iOS.
 
-Pretendo melhoraro no futuro.
+Pretendo melhora-lo no futuro.
 
 # O que foi feito:
 
